@@ -1,4 +1,3 @@
-// main_minimal.dart
 
 void main() {
   print('1. Welcome to Dart!');
